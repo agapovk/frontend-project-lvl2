@@ -1,15 +1,10 @@
-# Install
-`make install`
-
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/milanych/frontend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/milanych/frontend-project-lvl2/actions) [![Lint](https://github.com/milanych/frontend-project-lvl2/actions/workflows/lint.yml/badge.svg)](https://github.com/milanych/frontend-project-lvl2/actions/workflows/lint.yml) 
-[![Maintainability](https://api.codeclimate.com/v1/badges/6c9b30dbfc686abb4232/maintainability)](https://codeclimate.com/github/milanych/frontend-project-lvl2/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/6c9b30dbfc686abb4232/test_coverage)](https://codeclimate.com/github/milanych/frontend-project-lvl2/test_coverage)
 
-## Gendiff example
-[![asciicast](https://asciinema.org/a/mhriB8aolThLdm4Mv2XtYa4hQ.svg)](https://asciinema.org/a/mhriB8aolThLdm4Mv2XtYa4hQ)
+[![Actions Status](https://github.com/agapovk/frontend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/agapovk/frontend-project-lvl2/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/15b361bafaeaa031dcc6/maintainability)](https://codeclimate.com/github/agapovk/frontend-project-lvl2/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/15b361bafaeaa031dcc6/test_coverage)](https://codeclimate.com/github/agapovk/frontend-project-lvl2/test_coverage)
 
-## yaml and json comparison
-[![asciicast](https://asciinema.org/a/40Hp7OJI9fyrQy8OeBBnr2227.svg)](https://asciinema.org/a/40Hp7OJI9fyrQy8OeBBnr2227)
+## gendiff example
 
-## plain file
-[![asciicast](https://asciinema.org/a/8uACrYvvSNIaRr6gC0bIuMSeZ.svg)](https://asciinema.org/a/8uACrYvvSNIaRr6gC0bIuMSeZ)
+[![asciicast](https://asciinema.org/a/sY68nX2pDT3IzdKF8fwEF4JTb.svg)](https://asciinema.org/a/sY68nX2pDT3IzdKF8fwEF4JTb)
+[![asciicast](https://asciinema.org/a/MQH1FBJ3m1iWSCAoykAJl8c25.svg)](https://asciinema.org/a/MQH1FBJ3m1iWSCAoykAJl8c25)
